@@ -1,0 +1,10 @@
+Transactions History for Checking Account
+6 10 2020 credit 1000
+6 10 2020 debit 2500
+6 10 2020 credit 1500
+Final in Checking = 10000
+Transactions History for Savings Account
+6 10 2020 debit 1000
+6 10 2020 credit 500
+6 10 2020 debit 1500
+Final in Saving = 8000
